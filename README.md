@@ -15,8 +15,9 @@ I've been working with automation since 2015, but have always been curious know 
 
 Some things about me: 
 
-- I’m currently working at [ESX](https://www.linkedin.com/company/esx/)
-- Some times I get paid to solve problems using Linux and containers.
-- I’m currently learning English
-- I’m looking to collaborate on projects that will make people live better
-- Ask me anything about DevOps, Automation, SRE
+- :computer: I’m currently working at [ESX](https://www.linkedin.com/company/esx/)
+- :moneybag: Some times I get paid to solve problems using Linux and containers.
+- :tongue: I’m currently learning English
+- :eyes: I’m looking to collaborate on projects that will make people live better
+- :question: Ask me anything about DevOps, Automation, SRE
+- :musical_keyboard: I Play Keyboard!
