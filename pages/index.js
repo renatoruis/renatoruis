@@ -22,7 +22,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-          Powered by Renatão
+          {/* Powered by Renatão */}
       </footer>
     </div>
   )
