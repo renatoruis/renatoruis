@@ -15,7 +15,7 @@ I've been working with automation since 2015, but have always been curious know 
 
 #### Some things about me: 
 
-- :computer: I’m currently working at [ESX](https://www.linkedin.com/company/esx/)
+- :computer: I’m currently working at [RUIS IT SOLUTIONS](https://www.linkedin.com/company/76520620/)
 - :moneybag:  Some times I get paid to solve problems using Linux and containers.
 - :tongue:  I’m currently learning English
 - :eyes:  I’m looking to collaborate on projects that will make people live better
